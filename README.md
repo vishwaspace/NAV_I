@@ -1,4 +1,4 @@
-# THE STM32 PROJECT - NAV - I
+# THE STM32 PROJECT - NAV I
 Welcome to the repository for my custom STM32 board, a versatile hardware platform designed for seamless integration of GPS, pressure sensing, and IMU functionalities. This project aims to provide a robust solution for applications requiring precise location tracking, atmospheric pressure measurement, and motion sensing.
 
 Key Features:
