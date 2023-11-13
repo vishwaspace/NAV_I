@@ -19,3 +19,13 @@ Gyroscope, accelerometer, and magnetometer for comprehensive motion data.
 
 ![image](https://github.com/Karteek-N/NAV_I/assets/126140202/036022c6-0ac6-41ba-a8d0-4050f35238e7)
 
+Applications:
+
+Navigation Systems:
+Utilize the GPS module for accurate positioning in navigation and tracking systems.
+
+Environmental Sensing:
+Measure atmospheric pressure for weather monitoring or altitude calculation.
+
+Motion Tracking:
+Leverage the IMU for applications requiring precise motion sensing and orientation tracking.
