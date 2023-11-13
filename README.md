@@ -17,5 +17,5 @@ IMU (Inertial Measurement Unit):
 Incorporation of an advanced IMU for motion sensing and orientation tracking.
 Gyroscope, accelerometer, and magnetometer for comprehensive motion data.
 
-![image](file:///C:/Users/Karteek%20Nayak/Downloads/Screenshot%202023-11-13%20202420.png)
+![image](https://github.com/Karteek-N/NAV_I/assets/126140202/036022c6-0ac6-41ba-a8d0-4050f35238e7)
 
